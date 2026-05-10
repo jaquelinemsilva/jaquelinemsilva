@@ -35,7 +35,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-ff69b4?style=for-the-badge&logo=supabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-77DD77?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
-![Docker]("https://img.shields.io/badge/Docker-77DD77?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-77DD77?style=for-the-badge&logo=docker&logoColor=white)
 
 
 </div>
