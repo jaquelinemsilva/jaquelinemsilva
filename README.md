@@ -27,6 +27,8 @@
 
 ![Java](https://img.shields.io/badge/Java-77DD77?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-ff69b4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-77DD77?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-77DD77?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-77DD77?style=for-the-badge&logo=shopify&logoColor=white)
