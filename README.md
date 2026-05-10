@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=77DD77&size=28&center=false&vCenter=true&width=700&lines=Desenvolvedora+Full-Stack;Estudante+de+ADS;Graduada+em+Biomedicina;Apaixonada+por+Tecnologia+💚" />
 </p>
 
-💻 Desenvolvedora Full Stack na THEORIC Cosméticos  
+💻 Desenvolvedora Full-Stack na THEORIC Cosméticos  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — FATEC Carapicuíba  
 🔬 Graduada em Biomedicina — UNINOVE  
 📍 São Paulo, Brasil  
