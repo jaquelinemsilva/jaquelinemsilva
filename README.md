@@ -17,7 +17,7 @@
 
 ✨ Em transição de carreira da Biomedicina para Tecnologia  
 🚀 Apaixonada por desenvolvimento, automações e soluções criativas  
-🌱 Atualmente aprofundando meus conhecimentos em desenvolvimento Full Stack  
+🌱 Atualmente aprofundando meus conhecimentos em desenvolvimento Full-Stack  
 
 ---
 
