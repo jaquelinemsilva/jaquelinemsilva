@@ -1,4 +1,3 @@
-```md id="p9x2jk"
 # 🌿 Oii, eu sou a Jaqueline Maria 💖
 
 ![](https://komarev.com/ghpvc/?username=jaquelinemsilva&label=Visualizações+do+Perfil&color=ff69b4&style=for-the-badge)
@@ -66,5 +65,3 @@ jaquelinemaria.pro@gmail.com
 
 💼 LinkedIn:  
 https://www.linkedin.com/in/jaquelinemariadev/
-
-```
