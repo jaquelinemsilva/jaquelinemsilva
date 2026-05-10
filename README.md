@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=jaquelinemsilva&label=Visualizações+do+Perfil&color=ff69b4&style=for-the-badge)
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=77DD77&size=28&center=false&vCenter=true&width=700&lines=Desenvolvedora+Full+Stack;Graduada+em+Biomedicina;Estudante+de+ADS;Apaixonada+por+Tecnologia+💚" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=77DD77&size=28&center=false&vCenter=true&width=700&lines=Desenvolvedora+Full-Stack;Estudante+de+ADS;Graduada+em+Biomedicina;Apaixonada+por+Tecnologia+💚" />
 </p>
 
 💻 Desenvolvedora Full Stack na THEORIC Cosméticos  
