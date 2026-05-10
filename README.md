@@ -1,24 +1,29 @@
-# Jaqueline Maria
+# 🌿 Oii, eu sou a Jaqueline Maria 💖
 
-<div>
-  <a href="https://www.linkedin.com/in/jaquelinemariadev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=jaquelinemsilva&style=for-the-badge&color=77DD77"/>
-</div>
+![](https://komarev.com/ghpvc/?username=jaquelinemsilva&label=Visualizações+do+Perfil&color=ff69b4&style=for-the-badge)
 
-<br>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=77DD77&size=28&center=false&vCenter=true&width=700&lines=Desenvolvedora+Full-Stack;Estudante+de+ADS;Graduada+em+Biomedicina;Apaixonada+por+Tecnologia+💚" />
+</p>
 
-Desenvolvedora Full Stack na THEORIC Cosméticos.
-
-Graduada em Biomedicina pela UNINOVE e atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba.
-
-Atuo com desenvolvimento web, integrações, automações e soluções voltadas para e-commerce.
+💻 Desenvolvedora Full Stack na THEORIC Cosméticos  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — FATEC Carapicuíba  
+🔬 Graduada em Biomedicina — UNINOVE  
+📍 São Paulo, Brasil  
 
 ---
 
-## Tecnologias
+## 💚 Sobre mim
+
+✨ Em transição de carreira da Biomedicina para Tecnologia  
+🚀 Apaixonada por desenvolvimento, automações e soluções criativas  
+🌱 Atualmente aprofundando meus conhecimentos em desenvolvimento Full-Stack  
+
+---
+
+## 🩷 Tecnologias & Ferramentas
+
+<div style="display: inline_block"><br>
 
 ![Java](https://img.shields.io/badge/Java-77DD77?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-ff69b4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -34,21 +39,31 @@ Atuo com desenvolvimento web, integrações, automações e soluções voltadas 
 ![CSS3](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-77DD77?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaquelinemsilva&show_icons=true&theme=radical&title_color=77dd77&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinemsilva&layout=compact&theme=radical&title_color=77dd77&text_color=ffffff&bg_color=0d1117"/>
 
 </div>
 
 ---
 
-## Contato
+## 📊 Estatísticas do GitHub
 
-📧 jaquelinemaria.pro@gmail.com  
-💼 www.linkedin.com/in/jaquelinemariadev/
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelinemsilva&show_icons=true&theme=radical&title_color=77dd77&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinemsilva&layout=compact&theme=radical&title_color=77dd77&text_color=ffffff&bg_color=0d1117"/>
+
+</a>
+
+</div>
+
+---
+
+## 🌸 Contato
+
+📧 Email:  
+jaquelinemaria.pro@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/jaquelinemariadev/
